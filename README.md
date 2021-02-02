@@ -1,2 +1,2 @@
 # kids-words
-Record and count how many words my kid learned
+Record and count how many words my kid(s) learned
